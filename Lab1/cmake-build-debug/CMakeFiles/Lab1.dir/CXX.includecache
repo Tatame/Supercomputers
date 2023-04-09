@@ -6,9 +6,13 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/User/Supercomputers/Lab1/methodical_manual_task_2ex.cpp
-omp.h
+/mnt/c/Users/User/Supercomputers/Lab1/minirt_test_openmp.cpp
+minirt/minirt.h
+/mnt/c/Users/User/Supercomputers/Lab1/minirt/minirt.h
+cmath
 -
 iostream
+-
+omp.h
 -
 
